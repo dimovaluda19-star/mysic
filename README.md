@@ -8,4 +8,8 @@
 - Временная пауза
 - Воспроизведение с начала ("Плей")
 - Перемотка вперед и назад на 10 секунд
+
+
+
+
 - ![screenhot](https://github.com/dimovaluda19-star/mysic/blob/master/app/src/main/res/drawable/photo.png)
